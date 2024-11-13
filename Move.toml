@@ -3,10 +3,12 @@ name = "SolidityToMove"
 version = "1.0.0"
 authors = []
 
+
 [addresses]
+SolidityToMove = "_"
 
 [dev-addresses]
-SolidityToMove="0x123"
+SolidityToMove = "0xCAFE"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
